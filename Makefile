@@ -1,5 +1,5 @@
 SRCS_SV = server.c
-SRCS_CL = client.c
+SRCS_CL = client.c 
 SRCS_BSV = server_bonus.c
 SRCS_BCL = client_bonus.c
 SRCS = ft_printf.c ft_atoi.c
